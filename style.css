@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding:  0px;
+}
+#cabecalho {
+    height: auto;
+}
+img {
+    height: 150px;
+}
+.card {
+    min-width: 220px;
+    margin-top: 20px;
+}
